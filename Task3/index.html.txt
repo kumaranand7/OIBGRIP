@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Landing Page</title>
+	<meta name="viewport" content="width=device-width scale=1.0">
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<div class="container">
+			<div id="brand"><span id="brandFirst">Benlhachemi</span> 	Web Design
+			</div>
+			<div id="links">
+				<ul>
+					<li><a href="index.html" id="active">HOME</a></li>
+					<li><a href="#">ABOUT</a></li>
+					<li><a href="#">SERVICES</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="break"></div>
+
+	<div id="navbar-mobile">
+		
+			<ul>
+				<li><a href="index.html" id="active">HOME</a></li>
+				<li><a href="#">ABOUT</a></li>
+				<li><a href="#">SERVICES</a></li>
+			</ul>
+		
+	</div>
+
+	<div id="showcase">
+		<div class="container">
+			<h1>Afordable Professional Websites</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+		</div>
+	</div>
+
+	<div class="break"></div>
+
+	<div id="newsletter">
+		<div class="container">
+			<h4 id="t1">Subscribe to our Newsletter</h4>
+			<h3 id="email">
+				<input type="email" placeholder="Enter Email...">
+				<button>Subscribe</button>
+			</h3>
+		</div>
+	</div>
+
+	<div id="section">
+		<div class="container">
+			<div class="box">
+			<img style="width:42%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
+			<h3>HTML5</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+		</div>
+
+		<div class="box">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png">
+			<h3>CSS3</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+		</div>
+
+		<div class="box">
+			<img src="http://pluspng.com/img-png/logo-javascript-png-java-script-js-logo-format-ai-javascript-logo-vector-png-213.png">
+			<h3>JavaScript</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+		</div>
+		</div>
+	</div>
+
+	<div id="footer">
+		<h5>BENLHACHEMI Web Design&copy; 2019</h5>
+	</div>
+</body>
+<script type="text/javascript">
+	
+	
+</script>
+</html>
